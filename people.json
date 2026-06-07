@@ -37,20 +37,22 @@
       "bio": "Junjae is interested in developing statistical and machine learning approaches for biomedical and environmental health data."
     },
     {
-      "name": "Jihyun Lee",
+      "name": "Jihyeon Lee",
       "koreanName": "이지현",
       "role": "Master’s Student",
       "title": "",
       "department": "Department of Applied Statistics, Gachon University",
-      "email": "",
-      "photo": "",
+      "email": "dlwlgus1998@gachon.ac.kr",
+      "photo": "people/jihyun-lee/jihyeon-lee.jpg",
       "researchInterests": [
         "Biostatistics",
-        "Clinical data analysis",
-        "Machine learning",
-        "Biomedical research"
+        "Data analysis",
+        "Aging",
+        "Cognitive decline",
+        "Inflammation",
+        "Healthcare decision-making"
       ],
-      "bio": "Jihyun is interested in applying biostatistical and machine learning methods to clinical and biomedical research questions."
+      "bio": "Jihyeon is a master's student in the Department of Applied Statistics at Gachon University. Her research focuses on aging, cognitive decline, and inflammation based on biostatistics and data analysis, with the goal of contributing to data-driven decision-making in healthcare."
     },
     {
       "name": "Eunjae Han",
